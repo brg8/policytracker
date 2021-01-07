@@ -46,10 +46,10 @@ cp $POLICY_TMP_FILE $POLICY_FILE
 
 sed -E "s/name=\"lgnrnd\" value=\"$NONCE_REGEX\"/name=\"lgnrnd\" value=\"LGNRND_VALUE\"/g" $POLICY_FILE > $POLICY_TMP_FILE
 cp $POLICY_TMP_FILE $POLICY_FILE
+fi
 
 sed -E "s/amp;h=$NONCE_REGEX\"/amp;h=URL_TRACKER\"/g" $POLICY_FILE > $POLICY_TMP_FILE
 cp $POLICY_TMP_FILE $POLICY_FILE
-fi
 
 lynx --dump $POLICY_FILE > $POLICY_TXT_FILE
 
