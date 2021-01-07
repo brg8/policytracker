@@ -1,5 +1,7 @@
 # bin/bash
 # Todo: Several nonces, Long requireLazy lines?
+# Todo: Run in lambda
+# Todo: Trigger from cron job
 
 POLICY_DIR=policies
 THIS_FILE_NAME=$(basename "$0")
