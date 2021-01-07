@@ -32,10 +32,8 @@ WEB_SESSION_ID=$(grep -Eo bootstrapWebSession.+$ $POLICY_FILE | grep -Eo "\d+")
 sed -E "s/$WEB_SESSION_ID/\"WEB_SESSION_ID\"/g" $POLICY_FILE > $POLICY_TMP_FILE
 cp $POLICY_TMP_FILE $POLICY_FILE
 
-sed -E "s/bigPipe\.setPageID\(\"$NONCE_REGEX\"/bigPipe\.setPageID\(\"BIGPIPE_PAGE_ID\"/g" $POLICY_FILE > $POLICY_TMP_FILE
-cp $POLICY_TMP_FILE $POLICY_FILE
-
-sed -E "s/CavalryLogger\.setPageID\(\"$NONCE_REGEX\"/CavalryLogger\.setPageID\(\"CAVALRY_LOGGER_PAGE_ID\"/g" $POLICY_FILE > $POLICY_TMP_FILE
+BIGPIPE_PAGE_ID=$(grep -Eo "bigPipe\.setPageID\(\"$NONCE_REGEX\"" $POLICY_FILE | grep -Eo "(\d|\-)+")
+sed -E "s/$BIGPIPE_PAGE_ID/BIGPIPE_PAGE_ID/g" $POLICY_FILE > $POLICY_TMP_FILE
 cp $POLICY_TMP_FILE $POLICY_FILE
 
 sed -E "s/name=\"jazoest\" value=\"$NONCE_REGEX\"/name=\"jazoest\" value=\"JAZOEST_VALUE\"/g" $POLICY_FILE > $POLICY_TMP_FILE
