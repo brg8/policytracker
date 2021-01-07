@@ -29,8 +29,6 @@ rm $POLICY_FILE
 # Todo: Only commit if there is something to commit
 if [ $(git branch --show-current) = "main" ]; then
   if [[ -n $(git status -s) ]]; then
-    echo "All good"
-    exit 0
     git add $POLICY_DIR/*
     git commit -m "Executed file $THIS_FILE_NAME"
     git push origin main
