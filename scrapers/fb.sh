@@ -28,6 +28,7 @@ sed -E "s/\"ajaxpipe_token\":\"[a-zA-Z0-9_-]+\"/\"ajaxpipe_token\":\"AJAXPIPE_TO
 cp $POLICY_TMP_FILE $POLICY_FILE
 
 rm $POLICY_TMP_FILE
+rm $NONCE_FILE
 
 # Todo: Only commit if there is something to commit
 if [ $(git branch --show-current) = "main" ]; then
