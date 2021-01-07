@@ -28,7 +28,7 @@ rm $POLICY_FILE
 
 # Todo: Only commit if there is something to commit
 if [ $(git branch --show-current) = "main" ]; then
-  if [[ -z $(git status -s) ]]; then
+  if [[ -n $(git status -s) ]]; then
     echo "All good"
     exit 0
     git add $POLICY_DIR/*
