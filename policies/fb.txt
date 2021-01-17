@@ -505,63 +505,61 @@ How to contact Facebook with questions
 
    You can learn more about how privacy works [145]on Facebook and on
    [146]Instagram. If you have questions about this policy, you can
-   contact us as described below. We may resolve disputes you have with us
-   in connection with our privacy policies and practices through TrustArc.
-   You can contact TrustArc through its [147]website.
+   contact us as described below.
    Contact Us
-   You can contact us [148]online or by mail at:
+   You can contact us [147]online or by mail at:
    Facebook, Inc.
    ATTN: Privacy Operations
    1601 Willow Road
    Menlo Park, CA 94025
-   Date of Last Revision: August 21, 2020
+   Date of Last Revision: January 11, 2021
      * English (US)
-     * [149]Español
-     * [150]Français (France)
-     * [151]­()
-     * [152]a+l+e+r+b+y+tm
-     * [153]Português (Brasil)
-     * [154]­´
-     * [155]Italiano
-     * [156]Deutsch
-     * [157]¹¿¨¦
-     * [158]¥¬
+     * [148]Español
+     * [149]Français (France)
+     * [150]­()
+     * [151]a+l+e+r+b+y+tm
+     * [152]Português (Brasil)
+     * [153]­´
+     * [154]Italiano
+     * [155]Deutsch
+     * [156]¹¿¨¦
+     * [157]¥¬
      *
 
-     * [159]Sign Up
-     * [160]Log In
-     * [161]Messenger
-     * [162]Facebook Lite
-     * [163]Watch
-     * [164]People
-     * [165]Pages
-     * [166]Page Categories
-     * [167]Places
-     * [168]Games
-     * [169]Locations
-     * [170]Marketplace
-     * [171]Facebook Pay
-     * [172]Groups
-     * [173]Jobs
-     * [174]Oculus
-     * [175]Portal
-     * [176]Instagram
-     * [177]Local
-     * [178]Fundraisers
-     * [179]Services
-     * [180]Voting Information Center
-     * [181]About
-     * [182]Create Ad
-     * [183]Create Page
-     * [184]Developers
-     * [185]Careers
-     * [186]Privacy
-     * [187]Cookies
-     * [188]Ad Choices
-     * [189]Terms
-     * [190]Help
-     * [191]Settings
-     * [192]Activity Log
+     * [158]Sign Up
+     * [159]Log In
+     * [160]Messenger
+     * [161]Facebook Lite
+     * [162]Watch
+     * [163]People
+     * [164]Pages
+     * [165]Page Categories
+     * [166]Places
+     * [167]Games
+     * [168]Locations
+     * [169]Marketplace
+     * [170]Facebook Pay
+     * [171]Groups
+     * [172]Jobs
+     * [173]Oculus
+     * [174]Portal
+     * [175]Instagram
+     * [176]Local
+     * [177]Fundraisers
+     * [178]Services
+     * [179]Voting Information Center
+     * [180]About
+     * [181]Create Ad
+     * [182]Create Page
+     * [183]Developers
+     * [184]Careers
+     * [185]Privacy
+     * [186]Cookies
+     * [187]Ad Choices
+     * [188]Terms
+     * [189]Help
+     * [190]Settings
+     * [191]Activity Log
 
    Facebook © 2021
    [hsts-pixel.gif?c=3.2.5]
@@ -715,58 +713,58 @@ References
  144. https://www.facebook.com/legal/policy/ccpa
  145. https://www.facebook.com/about/basics
  146. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=URL_TRACKER
- 147. https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=URL_TRACKER
- 148. https://www.facebook.com/help/contact/861937627253138
- 149. https://es-la.facebook.com/policy.php
- 150. https://fr-fr.facebook.com/policy.php
- 151. https://zh-cn.facebook.com/policy.php
- 152. https://ar-ar.facebook.com/policy.php
- 153. https://pt-br.facebook.com/policy.php
- 154. https://ko-kr.facebook.com/policy.php
- 155. https://it-it.facebook.com/policy.php
- 156. https://de-de.facebook.com/policy.php
- 157. https://hi-in.facebook.com/policy.php
- 158. https://ja-jp.facebook.com/policy.php
- 159. file:///r.php
- 160. file:///login/
- 161. https://messenger.com/
- 162. file:///lite/
- 163. https://www.facebook.com/watch/
- 164. file:///directory/people/
- 165. file:///directory/pages/
- 166. file:///pages/category/
- 167. file:///places/
- 168. file:///games/
- 169. file:///directory/places/
- 170. file:///marketplace/
- 171. https://pay.facebook.com/
- 172. file:///directory/groups/
- 173. file:///jobs/
- 174. https://www.oculus.com/
- 175. https://portal.facebook.com/
- 176. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=URL_TRACKER
- 177. file:///local/lists/245019872666104/
- 178. file:///fundraisers/
- 179. file:///biz/directory/
- 180. file:///votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
- 181. file:///facebook
- 182. file:///ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
- 183. file:///pages/create/?ref_type=site_footer
- 184. https://developers.facebook.com/?ref=pf
- 185. file:///careers/?ref=pf
- 186. file:///privacy/explanation
- 187. file:///policies/cookies/
- 188. https://www.facebook.com/help/568137493302217
- 189. file:///policies?ref=pf
- 190. file:///help/?ref=pf
- 191. file:///settings
- 192. file:///allactivity?privacy_source=activity_log_top_menu
+ 147. https://www.facebook.com/help/contact/861937627253138
+ 148. https://es-la.facebook.com/policy.php
+ 149. https://fr-fr.facebook.com/policy.php
+ 150. https://zh-cn.facebook.com/policy.php
+ 151. https://ar-ar.facebook.com/policy.php
+ 152. https://pt-br.facebook.com/policy.php
+ 153. https://ko-kr.facebook.com/policy.php
+ 154. https://it-it.facebook.com/policy.php
+ 155. https://de-de.facebook.com/policy.php
+ 156. https://hi-in.facebook.com/policy.php
+ 157. https://ja-jp.facebook.com/policy.php
+ 158. file:///r.php
+ 159. file:///login/
+ 160. https://messenger.com/
+ 161. file:///lite/
+ 162. https://www.facebook.com/watch/
+ 163. file:///directory/people/
+ 164. file:///directory/pages/
+ 165. file:///pages/category/
+ 166. file:///places/
+ 167. file:///games/
+ 168. file:///directory/places/
+ 169. file:///marketplace/
+ 170. https://pay.facebook.com/
+ 171. file:///directory/groups/
+ 172. file:///jobs/
+ 173. https://www.oculus.com/
+ 174. https://portal.facebook.com/
+ 175. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=URL_TRACKER
+ 176. file:///local/lists/245019872666104/
+ 177. file:///fundraisers/
+ 178. file:///biz/directory/
+ 179. file:///votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+ 180. file:///facebook
+ 181. file:///ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+ 182. file:///pages/create/?ref_type=site_footer
+ 183. https://developers.facebook.com/?ref=pf
+ 184. file:///careers/?ref=pf
+ 185. file:///privacy/explanation
+ 186. file:///policies/cookies/
+ 187. https://www.facebook.com/help/568137493302217
+ 188. file:///policies?ref=pf
+ 189. file:///help/?ref=pf
+ 190. file:///settings
+ 191. file:///allactivity?privacy_source=activity_log_top_menu
 
    Hidden links:
- 194. https://www.facebook.com/ads/preferences/
- 195. https://www.facebook.com/about/basics
- 196. https://www.facebook.com/policies/cookies/
- 197. https://www.facebook.com/legal/terms/update
+ 193. https://www.facebook.com/ads/preferences/
+ 194. https://www.facebook.com/about/basics
+ 195. https://www.facebook.com/policies/cookies/
+ 196. https://www.facebook.com/legal/terms/update
+ 197. file://localhost/Users/magic/dev/tospp/policies/fb.html
  198. file://localhost/Users/magic/dev/tospp/policies/fb.html
  199. file://localhost/Users/magic/dev/tospp/policies/fb.html
  200. file://localhost/Users/magic/dev/tospp/policies/fb.html
@@ -787,4 +785,3 @@ References
  215. file://localhost/Users/magic/dev/tospp/policies/fb.html
  216. file://localhost/Users/magic/dev/tospp/policies/fb.html
  217. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 218. file://localhost/Users/magic/dev/tospp/policies/fb.html
