@@ -1,7 +1,4 @@
 # bin/bash
-# Todo: Several nonces, Long requireLazy lines?
-# Todo: Run in lambda
-# Todo: Trigger from cron job
 
 POLICY_DIR=policies
 THIS_FILE_NAME=$(basename "$0")
@@ -28,7 +25,6 @@ lynx --dump $POLICY_FILE > $POLICY_TXT_FILE
 rm $POLICY_TMP_FILE
 rm $POLICY_FILE
 
-# Todo: Only commit if there is something to commit
 if [ $(git branch --show-current) = "main" ]; then
   if [[ -n $(git status -s) ]]; then
     git add $POLICY_DIR/*
