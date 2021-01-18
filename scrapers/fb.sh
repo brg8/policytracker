@@ -2,6 +2,7 @@
 if [[ ! -z "$1" ]]; then
   exec >> $1
 fi
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 POLICY_DIR=policies
 THIS_FILE_NAME=$(basename "$0")
