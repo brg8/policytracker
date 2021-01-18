@@ -10,7 +10,7 @@ POLICY_TXT_FILE=$POLICY_DIR/fb.txt
 POLICY_TMP_FILE=$POLICY_DIR/fb_temp.html
 NONCE_REGEX=[a-zA-Z0-9_-]+
 
-if [ $(basename $(pwd)) != "tospp" ]; then
+if [ $(basename $(pwd)) != "policy-tracker" ]; then
   echo "Error: Must run this script from tospp folder"
   exit 1
 fi
