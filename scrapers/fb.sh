@@ -15,7 +15,7 @@ if [ $(basename $(pwd)) != "policy-tracker" ]; then
   exit 1
 fi
 
-echo "Working on https://www.facebook.com/policy.php"
+echo "--$(date)-- Working on https://www.facebook.com/policy.php"
 echo "  Fetching"
 curl "https://www.facebook.com/policy.php" > $POLICY_FILE
 
