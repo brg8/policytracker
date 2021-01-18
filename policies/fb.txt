@@ -1,4 +1,4 @@
-   REFRESH(0 sec): [1]file://localhost/policy.php?_fb_noscript=1
+   REFRESH(0 sec): [1]localhost/policy.php?_fb_noscript=1
    #[2]alternate [3]alternate [4]alternate [5]alternate [6]alternate
    [7]alternate [8]alternate [9]alternate [10]alternate [11]alternate
    [12]alternate [13]alternate [14]alternate [15]alternate [16]alternate
@@ -567,7 +567,7 @@ How to contact Facebook with questions
 References
 
    Visible links:
-   1. file:///policy.php?_fb_noscript=1
+   1. /policy.php?_fb_noscript=1
    2. https://www.facebook.com/policy.php
    3. https://en-gb.facebook.com/policy.php
    4. https://ca-es.facebook.com/policy.php
@@ -618,11 +618,11 @@ References
   49. https://vi-vn.facebook.com/policy.php
   50. https://ar-ar.facebook.com/policy.php
   51. https://he-il.facebook.com/policy.php
-  52. file:///Users/magic/dev/tospp/policies/fb.html
-  53. file:///Users/magic/dev/tospp/policies/fb.html
+  52. 
+  53. 
   54. https://www.facebook.com/
   55. https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar
-  56. file:///r.php?locale=en_US
+  56. /r.php?locale=en_US
   57. https://www.facebook.com/about/privacy/update/printable
   58. https://www.facebook.com/legal/policy/ccpa
   59. https://www.facebook.com/about/privacy/update/printable
@@ -638,13 +638,13 @@ References
   69. https://www.facebook.com/settings
   70. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=URL_TRACKER
   71. https://www.facebook.com/help/162347444215311
-  72. file:///Users/magic/dev/tospp/policies/fb.html#how-we-use-information
+  72. #how-we-use-information
   73. https://www.facebook.com/help/1297502253597210?ref=dp
   74. https://www.facebook.com/help/353111348061173?ref=dp
   75. https://www.facebook.com/help/282489752085908?ref=dp
   76. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp&h=URL_TRACKER
   77. https://www.facebook.com/help/561688620598358?ref=dp
-  78. file:///Users/magic/dev/tospp/policies/fb.html#how-we-use-information
+  78. #how-we-use-information
   79. https://www.facebook.com/help/1434403039959381?ref=dp
   80. https://l.facebook.com/l.php?u=https%3A%2F%2Fdonations.fb.com%2F&h=URL_TRACKER
   81. https://www.facebook.com/help/119468292028768?ref=dp
@@ -664,17 +664,17 @@ References
   95. https://www.facebook.com/help/166738576721085?ref=dp
   96. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%3Fref%3Ddp&h=URL_TRACKER
   97. https://www.facebook.com/help/1076296042409786?ref=dp
-  98. file:///Users/magic/dev/tospp/policies/fb.html#data-special-protections
+  98. #data-special-protections
   99. https://www.facebook.com/about/ads
  100. https://www.facebook.com/about/basics/manage-your-privacy/location
  101. https://www.facebook.com/about/ads
- 102. file:///Users/magic/dev/tospp/policies/fb.html#data-special-protections
+ 102. #data-special-protections
  103. https://www.facebook.com/help/122175507864081?ref=dp
  104. https://www.facebook.com/settings/facerec
  105. https://www.facebook.com/ads/preferences
  106. https://www.facebook.com/settings
  107. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=URL_TRACKER
- 108. file:///Users/magic/dev/tospp/policies/fb.html#sharing-partner-information
+ 108. #sharing-partner-information
  109. https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/
  110. https://www.facebook.com/help/379220725465972?ref=dp
  111. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=URL_TRACKER
@@ -694,7 +694,7 @@ References
  125. https://www.facebook.com/help/149081061827062?ref=dp
  126. https://www.facebook.com/help/203805466323736?ref=dp
  127. https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fprograms%2F&h=URL_TRACKER
- 128. file:///Users/magic/dev/tospp/policies/fb.html#legal-requests-prevent-harm
+ 128. #legal-requests-prevent-harm
  129. https://www.facebook.com/settings
  130. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=URL_TRACKER
  131. https://www.facebook.com/help/111814505650678?ref=dp
@@ -724,64 +724,64 @@ References
  155. https://de-de.facebook.com/policy.php
  156. https://hi-in.facebook.com/policy.php
  157. https://ja-jp.facebook.com/policy.php
- 158. file:///r.php
- 159. file:///login/
+ 158. /r.php
+ 159. /login/
  160. https://messenger.com/
- 161. file:///lite/
+ 161. /lite/
  162. https://www.facebook.com/watch/
- 163. file:///directory/people/
- 164. file:///directory/pages/
- 165. file:///pages/category/
- 166. file:///places/
- 167. file:///games/
- 168. file:///directory/places/
- 169. file:///marketplace/
+ 163. /directory/people/
+ 164. /directory/pages/
+ 165. /pages/category/
+ 166. /places/
+ 167. /games/
+ 168. /directory/places/
+ 169. /marketplace/
  170. https://pay.facebook.com/
- 171. file:///directory/groups/
- 172. file:///jobs/
+ 171. /directory/groups/
+ 172. /jobs/
  173. https://www.oculus.com/
  174. https://portal.facebook.com/
  175. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=URL_TRACKER
- 176. file:///local/lists/245019872666104/
- 177. file:///fundraisers/
- 178. file:///biz/directory/
- 179. file:///votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
- 180. file:///facebook
- 181. file:///ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
- 182. file:///pages/create/?ref_type=site_footer
+ 176. /local/lists/245019872666104/
+ 177. /fundraisers/
+ 178. /biz/directory/
+ 179. /votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+ 180. /facebook
+ 181. /ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+ 182. /pages/create/?ref_type=site_footer
  183. https://developers.facebook.com/?ref=pf
- 184. file:///careers/?ref=pf
- 185. file:///privacy/explanation
- 186. file:///policies/cookies/
+ 184. /careers/?ref=pf
+ 185. /privacy/explanation
+ 186. /policies/cookies/
  187. https://www.facebook.com/help/568137493302217
- 188. file:///policies?ref=pf
- 189. file:///help/?ref=pf
- 190. file:///settings
- 191. file:///allactivity?privacy_source=activity_log_top_menu
+ 188. /policies?ref=pf
+ 189. /help/?ref=pf
+ 190. /settings
+ 191. /allactivity?privacy_source=activity_log_top_menu
 
    Hidden links:
  193. https://www.facebook.com/ads/preferences/
  194. https://www.facebook.com/about/basics
  195. https://www.facebook.com/policies/cookies/
  196. https://www.facebook.com/legal/terms/update
- 197. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 198. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 199. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 200. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 201. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 202. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 203. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 204. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 205. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 206. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 207. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 208. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 209. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 210. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 211. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 212. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 213. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 214. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 215. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 216. file://localhost/Users/magic/dev/tospp/policies/fb.html
- 217. file://localhost/Users/magic/dev/tospp/policies/fb.html
+ 197. 
+ 198. 
+ 199. 
+ 200. 
+ 201. 
+ 202. 
+ 203. 
+ 204. 
+ 205. 
+ 206. 
+ 207. 
+ 208. 
+ 209. 
+ 210. 
+ 211. 
+ 212. 
+ 213. 
+ 214. 
+ 215. 
+ 216. 
+ 217. 
